@@ -12,33 +12,29 @@ This project was developed as a solution for a problem statement in Smart India 
 <h3 align="center">Go Goa App:</h3>
 
 <div align="center">
-<div>
-<h4 align="left">Splash Screen</h4>
-<img align="left" src="/ss/splash_screen.jpg" width=200px/>
+	
+<h4 >Splash Screen</h4>
+<img src="/ss/splash_screen.jpg" width=200px/>
 
-<h4 align="right">Monument Details</h4>
-<img align="right" src="/ss/history.jpg" width=200px/>
-</div>
+<h4>Monument Details</h4>
+<img src="/ss/history.jpg" width=200px/>
 
-<div>
-<h4 align="left">Monument History</h4>
-<img align="left" src="/ss/history2.jpg" width=200px/>
+<h4 >Monument History</h4>
+<img src="/ss/history2.jpg" width=200px/>
 
-<h4 align="right">User Reviews</h4>
-<img align="right" src="/ss/reviews.jpg" width=200px/>
-</div>
+<h4 >User Reviews</h4>
+<img  src="/ss/reviews.jpg" width=200px/>
 
-<div>
+
 <!-- <h4 align="left">Head-to-head Statistics</h4> -->
-<img align="left" src="/ss/bot1.jpeg" width=200px/>
+<img  src="/ss/bot1.jpeg" width=200px/>
 
 <!-- <h4 align="center">Team vs Team Prediction</h4> -->
-<img align="center" src="/ss/bot2.jpeg" width=200px/>
+<img  src="/ss/bot2.jpeg" width=200px/>
 
 <!-- <h4 align="center">Squad Prediction using K-means Clustering</h4> -->
-<img align="right" src="/ss/bot3.jpeg" width=200px/>
-</div>
-<br>
+<img  src="/ss/bot3.jpeg" width=200px/>
+
 
 </div>
 
