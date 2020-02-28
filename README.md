@@ -12,9 +12,9 @@ This project was developed as a solution for a problem statement in Smart India 
 ![](/ss/history.JPG)
 ![](/ss/history2.JPG)
 ![](/ss/reviews.JPG)
-![](/ss/bot1.JPG)
-![](/ss/bot2.JPG)
-![](/ss/bot3.JPG)
+![](/ss/bot1.JPEG)
+![](/ss/bot2.JPEG)
+![](/ss/bot3.JPEG)
 
 
 
