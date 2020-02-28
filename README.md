@@ -12,18 +12,23 @@ This project was developed as a solution for a problem statement in Smart India 
 <h3 align="center">Go Goa App:</h3>
 
 <div align="center">
+<div>
 <h4 align="left">Splash Screen</h4>
 <img align="left" src="/ss/splash_screen.jpg" width=200px/>
 
 <h4 align="right">Monument Details</h4>
 <img align="right" src="/ss/history.jpg" width=200px/>
+</div>
 <br>
+<div>
 <h4 align="left">Monument History</h4>
 <img align="left" src="/ss/history2.jpg" width=200px/>
 
 <h4 align="right">User Reviews</h4>
 <img align="right" src="/ss/reviews.jpg" width=200px/>
+</div>
 <br>
+<div>
 <!-- <h4 align="left">Head-to-head Statistics</h4> -->
 <img align="left" src="/ss/bot1.jpeg" width=200px/>
 
@@ -32,6 +37,7 @@ This project was developed as a solution for a problem statement in Smart India 
 
 <!-- <h4 align="center">Squad Prediction using K-means Clustering</h4> -->
 <img align="right" src="/ss/bot3.jpeg" width=200px/>
+</div>
 <br>
 
 <br>
