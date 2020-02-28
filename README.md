@@ -7,14 +7,46 @@
 This project was developed as a solution for a problem statement in Smart India Hackathon, in which users can take live photo of a Landmark/Monument in Goa and complete details of it will be provided to the user on App just based on the image. Additional features are Stats of various places, Chat Room, Emergency Services, AI Assistance Chatbot, Nearby Places and Customized Model for detection and Recognition.
 
 
+---
 
-![](/ss/splash_screen.jpg)
+<h3 align="center">Go Goa App:</h3>
+
+<div align="center">
+<h4 align="left">Splash Screen</h4>
+<img align="left" src="/ss/splash_screen.jpg" width=200px/>
+
+<h4 align="right">Monument Details</h4>
+<img align="right" src="/ss/history.jpg" width=200px/>
+<br>
+<h4 align="left">Monument History</h4>
+<img align="left" src="/ss/history2.jpg" width=200px/>
+
+<h4 align="right">User Reviews</h4>
+<img align="right" src="/ss/reviews.jpg" width=200px/>
+<br>
+<!-- <h4 align="left">Head-to-head Statistics</h4> -->
+<img align="left" src="/ss/bot1.jpeg" width=200px/>
+
+<!-- <h4 align="center">Team vs Team Prediction</h4> -->
+<img align="center" src="/ss/bot2.jpeg" width=200px/>
+
+<!-- <h4 align="center">Squad Prediction using K-means Clustering</h4> -->
+<img align="right" src="/ss/bot3.jpeg" width=200px/>
+<br>
+
+<br>
+</div>
+
+---
+
+
+<!-- ![](/ss/splash_screen.jpg)
 ![](/ss/history.jpg)
 ![](/ss/history2.jpg)
 ![](/ss/reviews.jpg)
 ![](/ss/bot1.jpeg)
 ![](/ss/bot2.jpeg)
-![](/ss/bot3.jpeg)
+![](/ss/bot3.jpeg) -->
 
 
 
