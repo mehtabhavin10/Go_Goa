@@ -13,19 +13,19 @@ This project was developed as a solution for a problem statement in Smart India 
 
 <div align="center">
 
-<img src="/ss/splash_screen.jpg" width=300px height=500px />
+<img src="/ss/splash_screen.jpg" width=300px height=600px />
 
-<img src="/ss/history.jpg" width=300px height=500px/>
+<img src="/ss/history.jpg" width=300px height=600px/>
 
-<img src="/ss/history2.jpg" width=300px height=500px/>
+<img src="/ss/history2.jpg" width=300px height=600px/>
 
-<img  src="/ss/reviews.jpg" width=300px height=500px/>
+<img  src="/ss/reviews.jpg" width=300px height=600px/>
 
-<img  src="/ss/bot1.jpeg" width=300px height=500px/>
+<img  src="/ss/bot1.jpeg" width=300px height=600px/>
 
-<img  src="/ss/bot2.jpeg" width=300px height=500px/>
+<img  src="/ss/bot2.jpeg" width=300px height=600px/>
 
-<img  src="/ss/bot3.jpeg" width=300px height=500px/>
+<img  src="/ss/bot3.jpeg" width=300px height=600px/>
 
 
 </div>
@@ -74,8 +74,9 @@ This project was developed as a solution for a problem statement in Smart India 
 - Priyam Vora - priyamvora99@gmail.com
 - Pragnya Konakalla - pragnyak09@gmail.com
 - Smruti Belgali - smruti22oct@gmail.com
-- Smit Malkan - smitmalkan99@gmail.com
 - Jigar Avalani - jigaravalani143@gmail.com
+- Smit Malkan - smitmalkan99@gmail.com
+
 
 
 
