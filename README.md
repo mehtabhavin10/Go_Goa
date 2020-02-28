@@ -8,13 +8,13 @@ This project was developed as a solution for a problem statement in Smart India 
 
 
 
-![](/ss/splash_screen.JPG)
-![](/ss/history.JPG)
-![](/ss/history2.JPG)
-![](/ss/reviews.JPG)
-![](/ss/bot1.JPEG)
-![](/ss/bot2.JPEG)
-![](/ss/bot3.JPEG)
+![](/ss/splash_screen.jpg)
+![](/ss/history.jpg)
+![](/ss/history2.jpg)
+![](/ss/reviews.jpg)
+![](/ss/bot1.jpeg)
+![](/ss/bot2.jpeg)
+![](/ss/bot3.jpeg)
 
 
 
